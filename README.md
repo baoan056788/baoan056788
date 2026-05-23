@@ -18,6 +18,18 @@ I am currently focusing on:
 - Database and data flow understanding
 - Communication between users, stakeholders, developers, and testers
 
+## What I Can Deliver
+
+- Software Requirements Specification
+- Business Requirements Document
+- Use Case Specification
+- User Stories and Acceptance Criteria
+- UML Diagrams
+- ERD and database documentation
+- Basic wireframes
+- Test case support
+- Project documentation structure
+
 ## Documentation I Work With
 
 I practice writing and organizing software documentation such as:
