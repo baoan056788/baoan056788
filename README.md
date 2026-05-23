@@ -1,24 +1,25 @@
 # Hi, I'm Tran Nguyen Bao An
 
+> Aspiring Business Analyst | IT Student | Requirements Analysis | UML | SQL | Software Documentation
+
 I'm an IT student from Vietnam, currently pursuing the **Business Analyst** career path.
 
-I am interested in understanding business problems, analyzing user needs, writing clear software requirements, and designing system models that help development teams build the right solutions.
+I focus on understanding business problems, analyzing user needs, documenting software requirements, and designing system models that help development teams build the right solutions.
 
 ## Business Analysis Focus
 
 I am currently focusing on:
 
 - Requirements gathering and requirements analysis
-- Software Requirements Specification
-- Business Requirements Document
 - Use Case and User Story writing
 - Acceptance Criteria
-- UML diagrams
-- Business process modeling
+- UML and business process modeling
 - Database and data flow understanding
 - Communication between users, stakeholders, developers, and testers
 
-## What I Can Deliver
+## BA Deliverables
+
+I practice creating clear and structured BA documents, including:
 
 - Software Requirements Specification
 - Business Requirements Document
@@ -27,31 +28,13 @@ I am currently focusing on:
 - UML Diagrams
 - ERD and database documentation
 - Basic wireframes
-- Test case support
-- Project documentation structure
-
-## Documentation I Work With
-
-I practice writing and organizing software documentation such as:
-
-- SRS — Software Requirements Specification
-- BRD — Business Requirements Document
-- Use Case Specification
-- User Stories
-- Acceptance Criteria
-- Test Cases
-- User Flow
-- Activity Diagram
-- Sequence Diagram
-- Class Diagram
-- ERD
-- Wireframe
+- Test cases
 
 ## Projects / Case Studies
 
 ### Personal Finance Management App
 
-A mobile application project for managing income, expenses, budgets, and financial reports.
+A mobile application for managing income, expenses, budgets, and financial reports.
 
 BA-related work:
 
@@ -59,21 +42,17 @@ BA-related work:
 - Use case modeling
 - User flow design
 - Database design
-- Feature specification
-- SRS documentation
 
 ### Sales Management System
 
-A system idea inspired by real-world retail management platforms, focusing on products, orders, customers, inventory, and revenue reports.
+A system inspired by real-world retail management platforms, focusing on products, orders, customers, inventory, and revenue reports.
 
 BA-related work:
 
 - Business process analysis
-- Functional requirements
-- Non-functional requirements
+- Functional and non-functional requirements
 - Use case specification
 - Test case design
-- Wireframe planning
 
 ### Library Management System
 
@@ -85,21 +64,10 @@ BA-related work:
 - CRUD requirement analysis
 - ERD design
 - UML diagrams
-- Software documentation
 
-## Tools & Skills
+## Tools & Technical Foundation
 
-### Business Analysis
-
-- Requirements Analysis
-- Stakeholder Analysis
-- Use Case Modeling
-- User Story Writing
-- Acceptance Criteria
-- Process Modeling
-- Software Documentation
-
-### Modeling & Documentation Tools
+### BA & Modeling Tools
 
 - Draw.io / diagrams.net
 - StarUML
@@ -116,18 +84,6 @@ BA-related work:
 - Git / GitHub
 - Basic Programming Logic
 - Software Development Life Cycle
-
-## Current Learning
-
-I'm currently improving my knowledge in:
-
-- Business Analysis fundamentals
-- UML and BPMN
-- Agile / Scrum
-- SQL and database design
-- Software testing basics
-- Product thinking
-- Technical documentation
 
 ## Contact
 
